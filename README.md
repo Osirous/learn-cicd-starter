@@ -1,4 +1,4 @@
-![Notely Workflow]https://github.com/Osirous/learn-cicd-starter/blob/main/.github/workflows/ci.yml/badge.svg
+![Notely Workflow](https://github.com/Osirous/learn-cicd-starter/blob/main/.github/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
